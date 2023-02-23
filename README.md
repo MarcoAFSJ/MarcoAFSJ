@@ -1,11 +1,12 @@
 ## Seja bem-vindo(a) 👋
 
-### Meu nome é Marco, sou formado em análise e desenvolvimento de sistemas informatizados pela FAETERJ-Rio, atualmente trabalho como desenvolvedor Full Stack no Rio de Janeiro - RJ. 
+### Meu nome é Marco, sou desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas informatizados.
 
 
 <br>
 <br>
 
+<!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -22,7 +23,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+-->
 
 <!--
 **MarcoAFSJ/MarcoAFSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
