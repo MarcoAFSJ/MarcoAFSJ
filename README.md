@@ -1,8 +1,5 @@
 ## Seja bem-vindo(a) 👋
 
-### Meu nome é Marco, sou desenvolvedor Full Stack, formado em análise e desenvolvimento de sistemas informatizados.
-
-
 <br>
 <br>
 
